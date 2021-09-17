@@ -27,7 +27,8 @@ Intégration et adaptation d’un service
 dimensions techniques, organisationnelles, juridiques de la cybersécurité 
 Ateliers de professionnalisation réalisés en équipe..
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Vous pouvez me rejoindre sur les réseaux sociaux suivants : 
+...
 
 <!---
 Epaikan1/Epaikan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
